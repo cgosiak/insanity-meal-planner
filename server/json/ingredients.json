@@ -1,0 +1,474 @@
+[
+    {
+        "name": "2% American Cheese (sliced)",
+        "unit": "slice(s)"
+    },
+    {
+        "name": "All-Fruit Preserves",
+        "unit": "tsp"
+    },
+    {
+        "name": "All-Natural Peanut Butter",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Apple",
+        "unit": null
+    },
+    {
+        "name": "Asian Ginger Dressing",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Asparagus",
+        "unit": "stalks"
+    },
+    {
+        "name": "Avacado",
+        "unit": "slice(s)"
+    },
+    {
+        "name": "Baked Potato",
+        "unit": null
+    },
+    {
+        "name": "Banana",
+        "unit": null
+    },
+    {
+        "name": "Black Olive",
+        "unit": null
+    },
+    {
+        "name": "Broccoli",
+        "unit": "cup"
+    },
+    {
+        "name": "Brown Rice",
+        "unit": "cup"
+    },
+    {
+        "name": "Canned Black Bean Soup",
+        "unit": "cup"
+    },
+    {
+        "name": "Cantaloupe",
+        "unit": null
+    },
+    {
+        "name": "Carrots",
+        "unit": "cup"
+    },
+    {
+        "name": "Celery",
+        "unit": "cup"
+    },
+    {
+        "name": "Cherry Tomato",
+        "unit": null
+    },
+    {
+        "name": "Chicken Breast",
+        "unit": "oz"
+    },
+    {
+        "name": "Chicken Broth",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Chickpeas",
+        "unit": "cup"
+    },
+    {
+        "name": "Chopped Walnuts",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Cocktail Sauce",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Cod Fillet",
+        "unit": "oz"
+    },
+    {
+        "name": "Corn Kernals",
+        "unit": "cup"
+    },
+    {
+        "name": "Cottage Cheese",
+        "unit": "cup"
+    },
+    {
+        "name": "Crumbled Feta",
+        "unit": "cup"
+    },
+    {
+        "name": "Cucumber",
+        "unit": null
+    },
+    {
+        "name": "Deli-Style Ham",
+        "unit": "oz"
+    },
+    {
+        "name": "Deli-Style Turkey Breast",
+        "unit": "oz"
+    },
+    {
+        "name": "Dijon Mustard",
+        "unit": "tsp"
+    },
+    {
+        "name": "Dried Cranberries",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Edamame",
+        "unit": "cup"
+    },
+    {
+        "name": "Egg",
+        "unit": null
+    },
+    {
+        "name": "Extra-Lean Ground Beaf",
+        "unit": "oz"
+    },
+    {
+        "name": "Flaxseeds",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Frozen Berries",
+        "unit": "cup"
+    },
+    {
+        "name": "Fruit Sorbet",
+        "unit": "cup"
+    },
+    {
+        "name": "Grapefruit",
+        "unit": null
+    },
+    {
+        "name": "Grapes",
+        "unit": "cup"
+    },
+    {
+        "name": "Grated Parmesan Cheese",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Green Beans",
+        "unit": "cup"
+    },
+    {
+        "name": "Green Beans",
+        "unit": "cup"
+    },
+    {
+        "name": "Honey",
+        "unit": "tsp"
+    },
+    {
+        "name": "Honey Mustard",
+        "unit": "tsp"
+    },
+    {
+        "name": "Hummus",
+        "unit": "cup"
+    },
+    {
+        "name": "Instant Oatmeal",
+        "unit": "cup"
+    },
+    {
+        "name": "Kidney Beans",
+        "unit": "cup"
+    },
+    {
+        "name": "Lean Ground Turkey",
+        "unit": "oz"
+    },
+    {
+        "name": "Lean Roast Beef",
+        "unit": "oz"
+    },
+    {
+        "name": "Lettuce",
+        "unit": "leaves"
+    },
+    {
+        "name": "Low-Fat Cheddar Cheese (shredded)",
+        "unit": "cup"
+    },
+    {
+        "name": "Low-Fat Ranch Dressing",
+        "unit": "cup"
+    },
+    {
+        "name": "Low-Fat Teriyaki Sauce",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Melon Balls",
+        "unit": "cup"
+    },
+    {
+        "name": "Milk (Skim, Almond, Rice, or Soy)",
+        "unit": "cup"
+    },
+    {
+        "name": "Miso Soup",
+        "unit": "cup"
+    },
+    {
+        "name": "Mixed Dark Greens",
+        "unit": "cup"
+    },
+    {
+        "name": "Mixed Fruit",
+        "unit": "cup"
+    },
+    {
+        "name": "Mixed Raw Vegatables",
+        "unit": "cup"
+    },
+    {
+        "name": "Mixed Vegetables",
+        "unit": "cup"
+    },
+    {
+        "name": "Mushrooms",
+        "unit": "cup"
+    },
+    {
+        "name": "Naval Orange",
+        "unit": null
+    },
+    {
+        "name": "Nonfat Greek Yogurt",
+        "unit": "cup"
+    },
+    {
+        "name": "Nutrition Bar",
+        "unit": null
+    },
+    {
+        "name": "Oatmeal",
+        "unit": "cup"
+    },
+    {
+        "name": "Olive-Oil",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Onions",
+        "unit": "cup"
+    },
+    {
+        "name": "Orange Juice",
+        "unit": "cup"
+    },
+    {
+        "name": "Paprika",
+        "unit": "tsp"
+    },
+    {
+        "name": "Part-Skim Mozzarella Cheese",
+        "unit": "cup"
+    },
+    {
+        "name": "Pear",
+        "unit": null
+    },
+    {
+        "name": "Peas",
+        "unit": "cup"
+    },
+    {
+        "name": "Pecans",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Protein Powder",
+        "unit": "scoop"
+    },
+    {
+        "name": "Raisins",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Red Bell Pepper",
+        "unit": null
+    },
+    {
+        "name": "Red Onion",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Red Potato",
+        "unit": null
+    },
+    {
+        "name": "Red Wine Vinegar",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Reduced-Fat Mayonnaise",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Reduced-Fat Russian Dressing",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Reduced-Fat Swiss Cheese (sliced)",
+        "unit": "slice(s)"
+    },
+    {
+        "name": "Reduced-Sodium Soy Sauce",
+        "unit": "tsp"
+    },
+    {
+        "name": "Romain Lettuce",
+        "unit": "leaves"
+    },
+    {
+        "name": "Salmon Fillet",
+        "unit": "oz"
+    },
+    {
+        "name": "Salsa",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Sashimi",
+        "unit": "oz"
+    },
+    {
+        "name": "Seasoned Bread Crumbs",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Sesame Oil",
+        "unit": "tsp"
+    },
+    {
+        "name": "Shakeology Mix",
+        "unit": "serving(s)"
+    },
+    {
+        "name": "Shrimp",
+        "unit": "oz"
+    },
+    {
+        "name": "Slivered Almonds (toasted)",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Smoked Salmon",
+        "unit": "oz"
+    },
+    {
+        "name": "Snow-Peas",
+        "unit": "cup"
+    },
+    {
+        "name": "Spinach",
+        "unit": "cup"
+    },
+    {
+        "name": "Steak",
+        "unit": "oz"
+    },
+    {
+        "name": "Tomato",
+        "unit": "slice(s)"
+    },
+    {
+        "name": "Tomato Sauce",
+        "unit": "cup"
+    },
+    {
+        "name": "Tuna Steak",
+        "unit": "oz"
+    },
+    {
+        "name": "Tuna or Salmon Roll",
+        "unit": "roll(s)"
+    },
+    {
+        "name": "Turkey Bacon",
+        "unit": "slice(s)"
+    },
+    {
+        "name": "Turkey Chili",
+        "unit": "cup"
+    },
+    {
+        "name": "Vanilla Extract",
+        "unit": "tsp"
+    },
+    {
+        "name": "Vegetable Juice",
+        "unit": "cup"
+    },
+    {
+        "name": "Water-Packed Tuna",
+        "unit": "oz"
+    },
+    {
+        "name": "Whipped Cream Cheese",
+        "unit": "tbsp"
+    },
+    {
+        "name": "Whole-Grain Bread",
+        "unit": "slice(s)"
+    },
+    {
+        "name": "Whole-Grain Cereal",
+        "unit": "cup"
+    },
+    {
+        "name": "Whole-Grain Crackers",
+        "unit": null
+    },
+    {
+        "name": "Whole-Grain Cream of Wheat",
+        "unit": "cup"
+    },
+    {
+        "name": "Whole-Grain English Muffin",
+        "unit": null
+    },
+    {
+        "name": "Whole-Grain Hamburger Bun",
+        "unit": null
+    },
+    {
+        "name": "Whole-Grain Tortilla",
+        "unit": null
+    },
+    {
+        "name": "Whole-Wheat Bagel",
+        "unit": null
+    },
+    {
+        "name": "Whole-Wheat Dinner Roll",
+        "unit": null
+    },
+    {
+        "name": "Whole-Wheat Melba Toast",
+        "unit": "slice(s)"
+    },
+    {
+        "name": "Whole-Wheat Pasta",
+        "unit": "cup"
+    },
+    {
+        "name": "Whole-Wheat Pita Pocket",
+        "unit": null
+    }
+]

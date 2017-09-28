@@ -1,0 +1,12 @@
+<div>
+  <h3><span class="mdl-badge" [attr.data-badge]="ingredients.length">Total Ingredients</span></h3>
+  <hr>
+  <ul class="mdl-list">
+      <li class="mdl-list__item" *ngFor="let ingredient of ingredients">
+        <span class="mdl-list__item-primary-content">
+          {{ ingredient.name }}
+        </span>
+      </li>
+  </ul>
+</div>
+
